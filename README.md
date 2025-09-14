@@ -3,22 +3,10 @@
 A LiDAR SLAM framework for planetary environments, code will soon be released.
 
 ## Results on multiple datasets
+![ Overall description of the AMEDS and Erfoud datasets. (a)AMEDS, (b) Erfoud.](figure/dataset.jpg)
 
 ### ARCHES Mount Etna Dataset (AMEDS)
-
-#### A-LOAM
-![A-LOAM on AMEDS](figure/ameds_aloam.png)
-
-#### Proposed
-![Proposed method on AMEDS](figure/ameds_proposed.png)
+![Pose visualization on the AMEDS dataset. (a) PIN-SLAM, (b) Traj-LO, (c) MULLS, (d) A-LOAM, (e) KISS-ICP, (f) Ours.](figure/all_traj_ameds.png)
 
 ### The Erfoud dataset
-
-#### A-LOAM
-![A-LOAM on Erfoud](figure/erfoud_aloam.png)
-
-#### V-LOAM
-![V-LOAM on Erfoud](figure/erfoud_vloam.png)
-
-#### Proposed
-![Proposed method on Erfoud](figure/erfoud_proposed.png)
+![Pose visualization on the Erfoud dataset. (a) PIN-SLAM, (b) Traj-LO, (c) MULLS, (d) A-LOAM, (e) KISS-ICP, (f) Ours.](figure/all_traj_erfoud.png)
